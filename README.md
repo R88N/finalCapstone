@@ -10,4 +10,6 @@ To use the calculators, you will be prompted to answer a few questions which wil
 Once the calculation to your selection has been complete, the program will ask you whether you would like to start again, if you respond with a yes, the process repeats, otherwise the program ends with a closing statement: Thank you for using this calculator
 
 Here is a picture of the output, to show an example of the program in action:
-![image](https://github.com/R88N/finalCapstone/assets/129325193/13387dd0-be1d-4d53-8f64-905037953dc0)
+
+![image](https://github.com/R88N/finalCapstone/assets/129325193/d683cfd2-1b10-46a0-ae78-2cda75ee0ab0)
+
